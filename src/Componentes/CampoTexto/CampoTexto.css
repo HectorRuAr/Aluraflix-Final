@@ -1,0 +1,30 @@
+
+.campo-texto{
+   
+    margin: 24px 0;
+    padding: 25px 25px 0;
+    
+
+}
+.campo-texto input{
+
+    background-color: #191919;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #F5F5F5;
+    width: 95%;
+    height: 30px;
+    outline-color: #2271D1;
+    color: #F5F5F5;
+
+}
+.campo-texto h2{
+
+    font-size: 20;
+    color: #F5F5F5;
+
+}

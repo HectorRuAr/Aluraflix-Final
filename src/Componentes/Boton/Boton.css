@@ -1,0 +1,18 @@
+.boton{
+
+    color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    padding: 5px 20px 10px;
+    background-color: #191919;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 2px solid;
+    border-color: #2271D1;
+    width: 125px;
+    
+
+}

@@ -1,0 +1,32 @@
+.lista-opciones{
+
+    padding: 0px 10px 0px;
+
+}
+
+.lista-opciones label{
+
+display: block;
+font-size: 20px;
+margin-bottom: 8px;
+padding: 10px 10px 0;
+
+}
+.lista-opciones select{
+
+    background-color: #191919;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #F5F5F5;
+    width: 85%;
+    height: 30px;
+    outline-color: #2271D1;
+    color: #F5F5F5;
+    
+    
+
+}

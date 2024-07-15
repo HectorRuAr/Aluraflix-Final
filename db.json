@@ -1,0 +1,24 @@
+{
+  "posts":[
+{
+  "id":1,
+  "nombre":"Play Station 1",
+  "precio":"350",
+  "foto":"https://es.wikipedia.org/wiki/PlayStation_%28consola%29#/media/Archivo:PSX-Console-wController.png"
+},
+
+{
+    "id":2,
+    "nombre":"Game Cube",
+    "precio":"300",
+    "foto":"https://es.wikipedia.org/wiki/Nintendo_GameCube#/media/Archivo:GameCube-Console-Set.png"
+  },
+
+  {
+    "id":3,
+    "nombre":"Xbox",
+    "precio":"450",
+    "foto":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Xbox-Console-Set.png"
+  }
+]
+}

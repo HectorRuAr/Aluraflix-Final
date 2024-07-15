@@ -1,0 +1,50 @@
+.mercancia{
+
+ display: flex;
+ flex-flow: column;
+ justify-content: space-around;
+ width: 196px;
+ height: 258px;
+ background-color: #745CD0;
+ border: 2px solid;
+ border-color: black;
+ align-items: center;
+ border-radius: 5px;
+ 
+}
+.info{
+
+
+width: 85%;
+
+}
+.mercancia h4{
+  
+    color: aliceblue;
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 400;
+    margin: 0;
+
+}
+.mercancia h5{
+    
+    color: aliceblue;
+    font-size: 30px;
+    padding: 10px 25px 0;
+    line-height: 22px;
+    font-weight: 400;
+    margin: 0;
+
+}
+.mercancia img{
+
+width: 90%;
+
+
+}
+.eliminar{
+    position: relative;
+    right: -75px;
+    top: 210px;
+}

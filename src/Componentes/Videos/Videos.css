@@ -1,0 +1,25 @@
+.tarjetaVideo {
+    width: 280px;
+    margin-bottom: 24px;
+    position: relative;
+}
+
+.encabezadoVideo {
+    background-color: #2271D1 ;
+    border-radius: 10px 10px 0px 0px;
+    height: 20px;
+}
+
+.tarjetaVideo img {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.eliminar{
+   
+    position: absolute;
+    right: 5px;
+    top: 22px;
+}

@@ -1,0 +1,37 @@
+.footer{
+
+    background-color:  #000000;
+    width: Fill (1,440px)px;
+    border-top: 2px solid;
+    border-color: #2271D1;
+    box-shadow:  inset 1px 8px 15px -4px #2271D1;
+    height: Hug (96px)px;
+    padding: 20px 0px 20px 0px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+.footer img{
+
+width: 180px ;
+
+}
+.firma{
+
+color: antiquewhite;
+display: flex;
+flex-flow: column;
+justify-content: space-evenly;
+align-items: center;
+font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+ 
+
+
+}
+    

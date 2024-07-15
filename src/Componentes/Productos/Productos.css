@@ -1,0 +1,25 @@
+.productos{
+background-color: blueviolet;
+font-size: 25px;
+display: flex ;
+flex-flow: column;
+
+}
+.productos h3{
+ 
+    font-weight: 400;
+    color: black;
+    border-bottom:  4px solid;
+    display:  flex;
+    justify-content: center;
+
+}
+.espacioMercancia{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+

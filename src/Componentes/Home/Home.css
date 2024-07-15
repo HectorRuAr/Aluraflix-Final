@@ -1,0 +1,31 @@
+.home{
+    background-color: #191919;
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+.encabezado{
+
+    font-size: 18px;
+    width: 250px;
+    height: 65px;
+    border-radius: 10px;
+
+}
+.home h3{
+    font-weight: 400;
+    color: #212121;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.videoSubido{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
